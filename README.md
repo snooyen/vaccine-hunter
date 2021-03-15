@@ -1,5 +1,7 @@
 # vaccine-hunter.js 💉
 
+> Forked from mikeendale/vaccine-hunter.  Adapted to check specific California cities & send a text alert via Twilio. (recommend creating a trial Twilio account for this).
+
 Checking vaccination appointment for my elderly parents is really difficult and annoying so, I built an app that checks CVS site every 15 minutes and emails me of the status. Fork it and make it your own. If you want your email added to this list, email vaccinehunter51 [at] gmail [dot] com and will add you to the distribution list.
 
 *Disclaimer*
@@ -10,6 +12,6 @@ Checking vaccination appointment for my elderly parents is really difficult and 
 
 ### Getting Started
 
-1. Clone repo: ```git clone https://github.com/mikeendale/vaccine-hunter.git```
+1. Clone repo: ```git clone https://github.com/snooyen/vaccine-hunter.git```
 2. Install packages: ```yarn install```
 3. Run: ```yarn start```
